@@ -1,2 +1,2 @@
-# Arrhythmia--detection-ECG
+# Arrhythmia-detection-ECG
 Arrhythmia detection using ECG signals
